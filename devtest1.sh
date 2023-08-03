@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-/usr/bin/curl --head https://www.baeldungtest.com
+/usr/bin/curl --zzhead https://www.baeldungtest.com
